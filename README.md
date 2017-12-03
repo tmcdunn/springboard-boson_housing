@@ -4,5 +4,5 @@ This repository contains the documents for my Springboard Mini-Project on Linear
 
 The files in this repository are:
 
-This file === README.md
-My submission (code & documentation) === Linear_Regression_Boston_Housing_exercises.ipynb
+1. This file === README.md
+2. My submission (code & documentation) === Linear_Regression_Boston_Housing_exercises.ipynb
